@@ -1,0 +1,224 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+}
+
+/* header part */
+
+.the-header {
+    text-align: right;
+    background-image: url('./images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1920px;
+    height: 1000px;
+}
+
+.all-thinks {
+    width: 525px;
+    height: 228px;
+    font-weight: 700;
+    font-size: 65px;
+    padding: 268px 200px 24px 1200px;
+    text-align: right;
+}
+
+.there-are {
+    width: 494px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0px 200px 32px 1228px;
+    text-align: right;
+}
+
+.contact {
+    font-weight: 600;
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    color: white;
+    background-color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    align-items: baseline;
+    margin: 0px 200px 115px 1209px;
+}
+
+/* main part */
+
+.first-main {
+    display: flex;
+    margin: 200px 0px 150px 340px;
+    gap: 150px;
+}
+
+.h1-and-p {
+    width: 416px;
+    height: 400px;
+    padding: 240px 0px 0px;
+}
+
+.my-failures {
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 24px;
+}
+
+.contrary-to-popular {
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.all-cont {
+    padding-bottom: 8px;
+}
+
+/* second main part */
+
+.my-plans {
+    margin: 0px 895px;
+    width: 179px;
+    height: 47px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+
+.skills {
+    display: flex;
+    gap: 50px;
+    margin: 0px 410px 200px 375px;
+}
+
+.imgs {
+    padding-left: 93px;
+}
+
+.top {
+    text-align: center;
+    width: 270px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 16px 0px;
+}
+
+.bottom {
+    text-align: center;
+    color: #737272;
+    display: inline-block width: 177px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+/* third part */
+
+.third-main {
+    background-image: url('./images/gradient2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    height: 300px;
+    margin: 0px 410px 200px 410px;
+}
+
+.always {
+    color: white;
+    width: 459px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 59px 617px 24px 64px;
+    padding-top: 59px;
+}
+
+.primary-btn {
+    background-color: #fff;
+    color: #F15B22;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 21px 36px;
+    margin: 0px 952px 79px 64px;
+}
+
+/* footer part */
+
+.footer {
+    background-color: black;
+    display: flex;
+}
+
+.title {
+    color: #fff;
+    width: 148px;
+    height: 53px;
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 16px;
+}
+
+.description {
+    color: #FFFFFF;
+    width: 485px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 24px;
+}
+
+.choto-description {
+    color: #FFFFFF;
+    width: 184px;
+    height: 26px;
+    padding-bottom: 16px;
+}
+
+.sub-title {
+    color: #fff;
+    width: 123px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 31px;
+}
+
+.scnd-btn {
+    background-color: #fff;
+    color: #F15B22;
+    width: 170.11px;
+    height: 64px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.future-div {
+    margin: 130px 0px 130px 230px;
+}
+
+#email {
+    background-color: black;
+    color: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 5px;
+    max-width: 325px;
+    height: 30px;
+    margin-bottom: 16px;
+    padding: 10px 100px 10px 20px;
+}
+
+.subscribe-div {
+    margin: 130px 0px 243px 631px;
+}
